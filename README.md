@@ -157,4 +157,3 @@ Computer Science Student
 Skills:
 Python | NLP | Flask | Machine Learning
 
-📌 Open to internships and opportunities
